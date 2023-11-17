@@ -27,11 +27,5 @@ This project consist of 3 parts, which are:
 4. Object Detection using Haar-cascades Classifier, link: http://ds.cs.ut.ee/Members/artjom85/2014dss-course-media/Object%20detection%20using%20Haar-final.pdf
 5. OpenCV Documentation, link: http://docs.opencv.org/3.0-beta/doc/py_tutorials/py_tutorials.html
 
-## Tips
-- If you don't understand what the code do, I already comments it line by line. 
-- You also can Google the syntax, and read the explanation from OpenCV Documentation.
-- Feel free to ask me through my email: nazmiasri95@gmail.com
 
-## Credit to:
-#### Anirban from TheCodacus. Link: http://thecodacus.com/
-#### All rights reserved to the respective owner
+
